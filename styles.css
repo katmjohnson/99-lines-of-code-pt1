@@ -1,0 +1,16 @@
+body {
+    background-color: firebrick;
+    font-family: 'Times New Roman', Times, serif
+}
+
+h1 {
+    color: floralwhite;
+}
+
+.class {
+    background-color: rgb(163, 163, 206);
+}
+
+.friend > h3 {
+    text-transform: uppercase;
+}
